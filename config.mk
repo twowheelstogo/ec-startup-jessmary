@@ -28,9 +28,9 @@ endef
 # Projects will be started in this order
 define SUBPROJECT_REPOS
 
-https://github.com/twowheelstogo/ec-api-jessmary.git,js-api,v4.0.0 \
-https://github.com/twowheelstogo/ec-admin-jessmary.git,js-admin,v4.0.0-beta.5 \
-https://github.com/twowheelstogo/ec-storefront-jessmary.git,js-storefront,v5.0.3
+https://github.com/twowheelstogo/ec-api-jessmary.git,js-api,trunk \
+https://github.com/twowheelstogo/ec-admin-jessmary.git,js-admin,trunk \
+https://github.com/twowheelstogo/ec-storefront-jessmary.git,js-storefront,trunk
 
 endef
 
